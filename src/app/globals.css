@@ -81,8 +81,10 @@
 
 html,
 body {
-  max-width: 100vw;
-  overflow-x: hidden;
+  max-width: 800px;
+  /* overflow-x: hidden; */
+  padding: 100px;
+  margin: 0 auto;
 }
 
 body {
